@@ -4,5 +4,4 @@ function multiply (a,b) {return (a*b) }
 function divide (a,b) {return (a/b) }
 function subtract (a,b) {return (a-b) }
 
-var increment(n) {return (n+1)
-}
+function increment(n) {return (n++)}
