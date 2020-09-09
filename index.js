@@ -6,3 +6,5 @@ function subtract (a,b) {return (a-b) }
 
 function increment(n) {return (++n) }
 function decrement(n) {return (--n) }
+
+function makeInt (n) {return parseInt (n) }
