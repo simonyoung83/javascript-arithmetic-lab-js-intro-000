@@ -1,1 +1,1 @@
-function add () {1+3 = 4}
+function add () {}
