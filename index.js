@@ -4,4 +4,5 @@ function multiply (a,b) {return (a*b) }
 function divide (a,b) {return (a/b) }
 function subtract (a,b) {return (a-b) }
 
-number = 5 {return (number++) }
+var number = 5
+number++
